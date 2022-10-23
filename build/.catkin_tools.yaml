@@ -1,0 +1,6 @@
+devel_space: /home/torky/hrwros_ws/devel
+install: false
+install_space: /home/torky/hrwros_ws/install
+profile: default
+source_space: /home/torky/hrwros_ws/src
+workspace: /home/torky/hrwros_ws
